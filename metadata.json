@@ -1,0 +1,7 @@
+{
+  "name": "crm-data-sanitizer",
+  "description": "Enterprise-grade CRM data hygiene tool. Validates emails, normalizes UAE phone numbers (+971 format), and deduplicates records for high-conversion sales pipelines.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
